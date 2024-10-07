@@ -17,7 +17,7 @@ ensuring you have the right stack everywhere.
 # Install Poetry
 pipx install poetry
 # Download the source code
-git clone https://github.com/arashmad/rechunk-zarr-ds.git
+git clone https://github.com/arashmad/fastapi-poetry-boilerplate.git
 # Install dependencies
 cd fastAPI-poetry-boilerplate
 poetry install

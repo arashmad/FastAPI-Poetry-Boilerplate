@@ -1,4 +1,6 @@
 """
+Top-level package for FastAPI  Poetry Boilerplate.
+
 The `fastapi_poetry_boilerplate` package provides a boilerplate for
 a FastAPI application.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Tests for `data_provider` package."""
+"""Tests for `fastapi_poetry_boilerplate` package."""
 
 from fastapi.testclient import TestClient
 

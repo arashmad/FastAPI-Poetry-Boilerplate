@@ -28,3 +28,37 @@ make lint && make test
 ```
 
 ## Custom Usage
+
+You can also use the project as a template for your own project. To do that you can the following bash file:
+
+<script src="https://gist.github.com/arashmad/fb1f58c88710594df3ecdc5b3387f03b.js"></script>
+
+You might first need to do:
+
+```bash
+chmod +x fastapi_boilerplate_builder.sh
+```
+
+Once you run it, you will be prompted for the following questions:
+
+- Directory of the cloned repository
+- Directory of the generated instance
+- Slug name
+
+It generates an instance of the project for you and test it to make sure it is working.
+
+After create a new repository on github (with the same slug name an without readme file) follow commands in your terminal to push your intance to github.
+
+To make sure your instance is working you can see the action tabs on github page.
+
+## Developed and Maintained By
+
+**Arash Madadi**
+
+**Full Stack Developer & Geospatial Expert**
+
+**Deutsches GeoForschungsZentrum GFZ**
+
+**Sektion 1.4 (Fernerkundung und Geoinformatik)**
+
+**LinkedIn: in/arashmad**

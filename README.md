@@ -29,14 +29,10 @@ make lint && make test
 
 ## Custom Usage
 
-You can also use the project as a template for your own project. To do that you can the following bash file:
-
-<iframe src="https://gist.github.com/arashmad/fb1f58c88710594df3ecdc5b3387f03b" width="100%" height="500">
-</iframe>
-
-You might first need to do:
+You can also use the project as a template for your own project. To do that you can use [this bash file](https://gist.github.com/arashmad/fb1f58c88710594df3ecdc5b3387f03b).
 
 ```bash
+git clone https://gist.github.com/fb1f58c88710594df3ecdc5b3387f03b.git
 chmod +x fastapi_boilerplate_builder.sh
 ```
 

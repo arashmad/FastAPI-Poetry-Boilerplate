@@ -31,7 +31,8 @@ make lint && make test
 
 You can also use the project as a template for your own project. To do that you can the following bash file:
 
-<script src="https://gist.github.com/arashmad/fb1f58c88710594df3ecdc5b3387f03b.js"></script>
+<iframe src="https://gist.github.com/arashmad/fb1f58c88710594df3ecdc5b3387f03b" width="100%" height="500">
+</iframe>
 
 You might first need to do:
 

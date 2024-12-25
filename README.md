@@ -52,10 +52,8 @@ To make sure your instance is working you can see the action tabs on github page
 
 **Arash Madadi**
 
-**Full Stack Developer & Geospatial Expert**
+Full Stack Developer & Geospatial Expert
 
-**Deutsches GeoForschungsZentrum GFZ**
+Deutsches GeoForschungsZentrum GFZ
 
-**Sektion 1.4 (Fernerkundung und Geoinformatik)**
-
-**LinkedIn: in/arashmad**
+Sektion 1.4 (Fernerkundung und Geoinformatik)
